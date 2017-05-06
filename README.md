@@ -1,6 +1,7 @@
 ## Course Registration
 Language: Java </br>
-Create courses and student accounts, then add students to the courses' roster.
+Wrote classese to create student accounts and classes, 
+then a driver program to demonstrate how to add and drop students to the courses' roster.
 
 </br>
 <p align="left">
