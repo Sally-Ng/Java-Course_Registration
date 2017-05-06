@@ -1,6 +1,6 @@
 ## Course Registration
 Language: Java </br>
-Create courses and update the roster of them.
+Create courses and student accounts, then add students to the courses' roster.
 
 </br>
 <p align="left">
