@@ -24,6 +24,6 @@ Write a class called CourseAL. And instead of using an array to store the roster
 
 </br>
 <p align="left">
-  <img src="courseRoster.JPG" width="450"/>
+  <img src="courseRoster.JPG" width="500"/>
 </p>
 
