@@ -2,6 +2,11 @@
 Language: Java </br>
 Create courses and update the roster of them.
 
+</br>
+<p align="left">
+  <img src="courseRoster.JPG" width="500"/>
+</p>
+
 #### Part 1- The Student Class
 Write a class called Student.
 
@@ -21,9 +26,4 @@ Write a driver to demonstrate that your class works.
 ###
 ### Bonus: 
 Write a class called CourseAL. And instead of using an array to store the roster, use an ArrayList. 
-
-</br>
-<p align="left">
-  <img src="courseRoster.JPG" width="500"/>
-</p>
 
