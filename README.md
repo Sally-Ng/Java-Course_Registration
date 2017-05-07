@@ -1,6 +1,6 @@
 ## Course Registration
 Language: Java </br>
-Wrote classese to create student accounts and classes, 
+Wrote classes to create student accounts and classes, 
 then a driver program to demonstrate how to add and drop students to the courses' roster.
 
 </br>
